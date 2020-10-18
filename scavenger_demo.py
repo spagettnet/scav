@@ -39,7 +39,7 @@ fontScale = 2
 color = (0, 255, 255) 
 thickness = 2
 
-target = random.choice(['Cat'])
+target = random.choice(['Watch','Laptop', 'Bottle','Mobile phone','Glasses'])
 
 
 while True:
